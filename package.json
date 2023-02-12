@@ -1,0 +1,20 @@
+{
+  "name": "near-dapp",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "OmarMWarraich <earthling986@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "assemblyscript": "^0.19.23"
+  },
+  "repository": "git@github.com:OmarMWarraich/near-dapp.git",
+  "private": false,
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
+}
