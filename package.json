@@ -10,6 +10,7 @@
   "author": "OmarMWarraich <earthling986@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "asbuild": "^0.2.0",
     "assemblyscript": "^0.19.23"
   },
   "repository": "git@github.com:OmarMWarraich/near-dapp.git",
